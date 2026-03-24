@@ -1,9 +1,9 @@
 {
-  "version": "1.0.2",
+  "version": "1.0.3",
   "download_url": "https://example.com/download",
   "isShowUpdata": "0",
-  "isNeedUpdata": "0",
-  "describe": "新增自动判定首次/非首次执行，不再依赖手动按钮切换。新增执行前备份当前表格选项，便于回滚。新增调试模式下的关键步骤日志，方便定位问题。优化主窗口、说明弹框和系统信息弹框样式。",
-  "Is_time_limit":1,
+  "isNeedUpdata": "1",
+  "describe": "1.增加批量安装卸载INF 2.增加当前系统对比版本 3.增加日志文件的输出。",
+  "Is_time_limit":0,
   "time_limit":{"ceshika6666":"30","ceshika8888":"60"}
 }
