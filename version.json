@@ -1,9 +1,9 @@
 {
-  "version": "1.0.3",
+  "version": "1.0.4",
   "download_url": "https://example.com/download",
   "isShowUpdata": "0",
   "isNeedUpdata": "1",
-  "describe": "1.增加批量安装卸载INF 2.增加当前系统对比版本 3.增加日志文件的输出。",
+  "describe": "1.新增自动新增INF行 2.更新批量安装版本对比展示当前系统版本号和OEM名称",
   "Is_time_limit":0,
   "time_limit":{"ceshika6666":"30","ceshika8888":"60"}
 }
